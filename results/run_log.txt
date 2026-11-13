@@ -1,0 +1,16 @@
+{'n_rows': 7444, 'start': '1996-03-18', 'end': '2026-11-02', 'up_share': 0.5353304674905964, 'last_unlabeled': '2026-11-03'}
+random CONT (rival) {'acc': 0.537, 'bacc': 0.5049, 'f1': 0.683, 'mcc': 0.0219, 'auc': 0.5441}
+random BIN (rival) {'acc': 0.5388, 'bacc': 0.5027, 'f1': 0.6946, 'mcc': 0.0151, 'auc': 0.5063}
+random SI (ablation) {'acc': 0.5412, 'bacc': 0.5097, 'f1': 0.6844, 'mcc': 0.0286, 'auc': 0.5262}
+random HYB (proposed) {'acc': 0.5397, 'bacc': 0.5074, 'f1': 0.6829, 'mcc': 0.0326, 'auc': 0.526}
+walkfwd CONT (rival) {'acc': 0.5333, 'bacc': 0.502, 'f1': 0.6758, 'mcc': 0.0066, 'auc': 0.514}
+walkfwd BIN (rival) {'acc': 0.5367, 'bacc': 0.4989, 'f1': 0.6955, 'mcc': -0.008, 'auc': 0.5041}
+walkfwd SI (ablation) {'acc': 0.5359, 'bacc': 0.5006, 'f1': 0.6887, 'mcc': 0.0024, 'auc': 0.5085}
+walkfwd HYB (proposed) {'acc': 0.5369, 'bacc': 0.5019, 'f1': 0.6885, 'mcc': 0.0085, 'auc': 0.5112}
+walkfwd Majority {'acc': 0.5391, 'bacc': np.float64(0.5), 'f1': 0.7005, 'mcc': 0.0, 'auc': np.float64(0.4863)}
+walkfwd Persistence {'acc': 0.4994, 'bacc': np.float64(0.4963), 'f1': 0.5359, 'mcc': np.float64(-0.0075), 'auc': np.float64(0.4963)}
+walkfwd LogReg (HYB) {'acc': 0.5219, 'bacc': np.float64(0.495), 'f1': 0.6545, 'mcc': np.float64(-0.0139), 'auc': np.float64(0.4972)}
+walkfwd RandomForest (HYB) {'acc': 0.5342, 'bacc': np.float64(0.5113), 'f1': 0.6503, 'mcc': np.float64(0.0279), 'auc': np.float64(0.5105)}
+sameday BIN (rival) {'acc': 0.9124, 'bacc': 0.9118, 'f1': 0.9181, 'mcc': 0.8242, 'auc': 0.9688}
+sameday CONT (rival) {'acc': 0.9127, 'bacc': 0.9128, 'f1': 0.9174, 'mcc': 0.825, 'auc': 0.9767}
+done 336.7 s

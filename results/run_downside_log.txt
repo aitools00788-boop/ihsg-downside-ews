@@ -1,0 +1,25 @@
+-0.015 CONT (rival) {'auc': 0.6801, 'pr_auc': 0.1238, 'precision': 0.1345, 'recall': 0.47, 'lift': 2.1093, 'nsr': 0.4385}
+-0.015 BIN (rival) {'auc': 0.6138, 'pr_auc': 0.0905, 'precision': 0.1098, 'recall': 0.2985, 'lift': 1.7221, 'nsr': 0.5524}
+-0.015 SI (ablation) {'auc': 0.7333, 'pr_auc': 0.1735, 'precision': 0.1472, 'recall': 0.4954, 'lift': 2.3097, 'nsr': 0.3944}
+-0.015 HYB (proposed) {'auc': 0.7304, 'pr_auc': 0.1736, 'precision': 0.1487, 'recall': 0.4969, 'lift': 2.3324, 'nsr': 0.3899}
+-0.015 Climatology {'auc': 0.4829, 'pr_auc': 0.0674, 'precision': 0.0637, 'recall': 1.0, 'lift': 1.0, 'nsr': 1.0}
+-0.015 Vol-20 rule {'auc': 0.6972, 'pr_auc': 0.1499, 'precision': 0.1257, 'recall': 0.4346, 'lift': 1.972, 'nsr': 0.4736}
+-0.015 LogReg (HYB) {'auc': 0.7025, 'pr_auc': 0.1569, 'precision': 0.1461, 'recall': 0.4423, 'lift': 2.2925, 'nsr': 0.3978}
+-0.015 RandomForest (HYB) {'auc': 0.7342, 'pr_auc': 0.1699, 'precision': 0.1469, 'recall': 0.5, 'lift': 2.3045, 'nsr': 0.3954}
+-0.01 CONT (rival) {'auc': 0.6174, 'pr_auc': 0.1738, 'precision': 0.2024, 'recall': 0.386, 'lift': 1.695, 'nsr': 0.5344}
+-0.01 BIN (rival) {'auc': 0.5783, 'pr_auc': 0.149, 'precision': 0.1626, 'recall': 0.2341, 'lift': 1.3621, 'nsr': 0.6981}
+-0.01 SI (ablation) {'auc': 0.6594, 'pr_auc': 0.2132, 'precision': 0.222, 'recall': 0.3943, 'lift': 1.8591, 'nsr': 0.4752}
+-0.01 HYB (proposed) {'auc': 0.6515, 'pr_auc': 0.2071, 'precision': 0.2157, 'recall': 0.384, 'lift': 1.8065, 'nsr': 0.493}
+-0.01 Climatology {'auc': 0.4911, 'pr_auc': 0.1236, 'precision': 0.1194, 'recall': 1.0, 'lift': 1.0, 'nsr': 1.0}
+-0.01 Vol-20 rule {'auc': 0.6396, 'pr_auc': 0.196, 'precision': 0.1846, 'recall': 0.3409, 'lift': 1.5466, 'nsr': 0.5987}
+-0.01 LogReg (HYB) {'auc': 0.6382, 'pr_auc': 0.2031, 'precision': 0.2247, 'recall': 0.347, 'lift': 1.8823, 'nsr': 0.4677}
+-0.01 RandomForest (HYB) {'auc': 0.6546, 'pr_auc': 0.2116, 'precision': 0.2168, 'recall': 0.3922, 'lift': 1.8159, 'nsr': 0.4898}
+-0.02 CONT (rival) {'auc': 0.7415, 'pr_auc': 0.1175, 'precision': 0.0888, 'recall': 0.5175, 'lift': 2.534, 'nsr': 0.3726}
+-0.02 BIN (rival) {'auc': 0.6355, 'pr_auc': 0.0596, 'precision': 0.0613, 'recall': 0.3007, 'lift': 1.7497, 'nsr': 0.556}
+-0.02 SI (ablation) {'auc': 0.785, 'pr_auc': 0.1318, 'precision': 0.0976, 'recall': 0.5944, 'lift': 2.7837, 'nsr': 0.336}
+-0.02 HYB (proposed) {'auc': 0.7738, 'pr_auc': 0.1199, 'precision': 0.0932, 'recall': 0.5664, 'lift': 2.6588, 'nsr': 0.3534}
+-0.02 Climatology {'auc': 0.5054, 'pr_auc': 0.0424, 'precision': 0.0351, 'recall': 1.0, 'lift': 1.0, 'nsr': 1.0}
+-0.02 Vol-20 rule {'auc': 0.7499, 'pr_auc': 0.11, 'precision': 0.0812, 'recall': 0.5105, 'lift': 2.3162, 'nsr': 0.4111}
+-0.02 LogReg (HYB) {'auc': 0.745, 'pr_auc': 0.1215, 'precision': 0.0942, 'recall': 0.5385, 'lift': 2.6884, 'nsr': 0.3492}
+-0.02 RandomForest (HYB) {'auc': 0.7724, 'pr_auc': 0.1263, 'precision': 0.0935, 'recall': 0.5664, 'lift': 2.668, 'nsr': 0.3521}
+done
